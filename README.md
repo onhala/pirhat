@@ -5,3 +5,7 @@ This repository focuses on the development of an adaptation board for the PIR se
 ## Schematic
 
 You can view the schematic online using KiCanvas: [View Schematic](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fonhala%2Fpirhat%2Ftree%2Fmain%2Fschematic_pcb)
+
+## Cover Manufacturing Files
+
+The manufacturing files for the plastic cover are located in the `cover` folder. They are available in both DWG and PDF formats.
